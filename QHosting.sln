@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "View", "QHosting\View.vbproj", "{6C129A44-5EB6-430C-B962-C427FE0DAD14}"
 EndProject
@@ -16,30 +16,6 @@ EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Reporting", "CrystalReportsApplication1\Reporting.vbproj", "{D84775B6-5FE7-47D7-877C-B623DB1414C0}"
 EndProject
 Global
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 7
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = https://guidoquadrini.visualstudio.com/defaultcollection
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = Controller\\Controller.vbproj
-		SccProjectName1 = Controller
-		SccLocalPath1 = Controller
-		SccProjectUniqueName2 = Model\\Model.vbproj
-		SccProjectName2 = Model
-		SccLocalPath2 = Model
-		SccProjectUniqueName3 = QHosting\\View.vbproj
-		SccProjectName3 = QHosting
-		SccLocalPath3 = QHosting
-		SccProjectUniqueName4 = Conexion\\Conexion.vbproj
-		SccProjectName4 = Conexion
-		SccLocalPath4 = Conexion
-		SccProjectUniqueName5 = iModel\\Helper.vbproj
-		SccProjectName5 = iModel
-		SccLocalPath5 = iModel
-		SccProjectUniqueName6 = CrystalReportsApplication1\\Reporting.vbproj
-		SccProjectName6 = CrystalReportsApplication1
-		SccLocalPath6 = CrystalReportsApplication1
-	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
