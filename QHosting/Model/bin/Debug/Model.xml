@@ -1,0 +1,56 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Model
+</name>
+</assembly>
+<members>
+<member name="M:Model.Productos.Actualizar">
+ <summary>
+ Metodo para actualizar el Catalogo de Productos
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:Model.Productos.ActualizarModelo(Model.Producto,Model.eAMBC_Acciones)">
+ <summary>
+ Metodo para guardar o actualizar nuevos Productos.
+ </summary>
+ <param name="pProducto">Objeto Producto</param>
+ <param name="pModo">Accion Baja o Modificacion</param>
+ <returns>Booleano. True si la operacion se realizo con exito y False en caso contrario.</returns>
+ <remarks></remarks>
+</member>
+<member name="M:Model.Clientes.Actualizar">
+ <summary>
+ Metodo para actualizar el Catalogo de Clientes
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:Model.Clientes.ActualizarModelo(Model.Cliente,Model.eAMBC_Acciones)">
+ <summary>
+ Metodo para guardar o actualizar nuevos Clientes.
+ </summary>
+ <param name="pObjeto">Objeto Cliente</param>
+ <param name="pModo">Accion Baja o Modificacion</param>
+ <returns>Booleano. True si la operacion se realizo con exito y False en caso contrario.</returns>
+ <remarks></remarks>
+</member>
+<member name="T:Model.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Model.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Model.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+</members>
+</doc>

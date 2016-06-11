@@ -1,0 +1,2 @@
+C:\Users\GuidoNicolás\AppData\Local\Temporary Projects\QHosting\bin\Debug\QHosting.exe.config
+C:\Users\GuidoNicolás\Documents\Visual Studio 2013\Projects\QHosting\QHosting\bin\Debug\QHosting.exe.config

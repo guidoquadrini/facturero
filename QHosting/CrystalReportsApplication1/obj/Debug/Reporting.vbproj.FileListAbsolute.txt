@@ -1,0 +1,10 @@
+C:\Users\GuidoNicolás\Documents\Visual Studio 2013\Projects\QHosting\CrystalReportsApplication1\bin\Debug\Reporting.exe
+C:\Users\GuidoNicolás\Documents\Visual Studio 2013\Projects\QHosting\CrystalReportsApplication1\bin\Debug\Reporting.pdb
+C:\Users\GuidoNicolás\Documents\Visual Studio 2013\Projects\QHosting\CrystalReportsApplication1\bin\Debug\Reporting.xml
+C:\Users\GuidoNicolás\Documents\Visual Studio 2013\Projects\QHosting\CrystalReportsApplication1\obj\Debug\Reporting.vbprojResolveAssemblyReference.cache
+C:\Users\GuidoNicolás\Documents\Visual Studio 2013\Projects\QHosting\CrystalReportsApplication1\obj\Debug\Reporting.FRM_ReportViewer.resources
+C:\Users\GuidoNicolás\Documents\Visual Studio 2013\Projects\QHosting\CrystalReportsApplication1\obj\Debug\Reporting.Resources.resources
+C:\Users\GuidoNicolás\Documents\Visual Studio 2013\Projects\QHosting\CrystalReportsApplication1\obj\Debug\Reporting.vbproj.GenerateResource.Cache
+C:\Users\GuidoNicolás\Documents\Visual Studio 2013\Projects\QHosting\CrystalReportsApplication1\obj\Debug\Reporting.exe
+C:\Users\GuidoNicolás\Documents\Visual Studio 2013\Projects\QHosting\CrystalReportsApplication1\obj\Debug\Reporting.xml
+C:\Users\GuidoNicolás\Documents\Visual Studio 2013\Projects\QHosting\CrystalReportsApplication1\obj\Debug\Reporting.pdb
