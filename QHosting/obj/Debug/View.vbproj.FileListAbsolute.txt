@@ -32,3 +32,7 @@ C:\Users\GuidoNicolás\Source\Repos\facturero\QHosting\QHosting\bin\Debug\View.e
 C:\Users\GuidoNicolás\Source\Repos\facturero\QHosting\QHosting\obj\Debug\View.exe
 C:\Users\GuidoNicolás\Source\Repos\facturero\QHosting\QHosting\obj\Debug\View.xml
 C:\Users\GuidoNicolás\Source\Repos\facturero\QHosting\QHosting\obj\Debug\View.pdb
+C:\Users\GuidoNicolás\Source\Repos\facturero\QHosting\bin\Debug\View.exe.config
+C:\Users\GuidoNicolás\Source\Repos\facturero\QHosting\obj\Debug\View.exe
+C:\Users\GuidoNicolás\Source\Repos\facturero\QHosting\obj\Debug\View.xml
+C:\Users\GuidoNicolás\Source\Repos\facturero\QHosting\obj\Debug\View.pdb
