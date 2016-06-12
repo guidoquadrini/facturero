@@ -39,3 +39,17 @@ C:\Users\GuidoNicolás\OneDrivePersonal\OneDrive\Documentos\ProyectosVisual\QHos
 C:\Users\GuidoNicolás\OneDrivePersonal\OneDrive\Documentos\ProyectosVisual\QHosting\Conexion\bin\Debug\MySql.Data.dll
 C:\Users\GuidoNicolás\OneDrivePersonal\OneDrive\Documentos\ProyectosVisual\QHosting\Conexion\bin\Debug\Helper.pdb
 C:\Users\GuidoNicolás\OneDrivePersonal\OneDrive\Documentos\ProyectosVisual\QHosting\Conexion\bin\Debug\Helper.xml
+C:\Users\GuidoNicolás\Source\Repos\facturero\Conexion\bin\Debug\Conexion.dll.config
+C:\Users\GuidoNicolás\Source\Repos\facturero\Conexion\bin\Debug\Conexion.dll
+C:\Users\GuidoNicolás\Source\Repos\facturero\Conexion\bin\Debug\Conexion.pdb
+C:\Users\GuidoNicolás\Source\Repos\facturero\Conexion\bin\Debug\Conexion.xml
+C:\Users\GuidoNicolás\Source\Repos\facturero\Conexion\bin\Debug\Helper.dll
+C:\Users\GuidoNicolás\Source\Repos\facturero\Conexion\bin\Debug\MySql.Data.dll
+C:\Users\GuidoNicolás\Source\Repos\facturero\Conexion\bin\Debug\Helper.pdb
+C:\Users\GuidoNicolás\Source\Repos\facturero\Conexion\bin\Debug\Helper.xml
+C:\Users\GuidoNicolás\Source\Repos\facturero\Conexion\obj\Debug\Conexion.vbprojResolveAssemblyReference.cache
+C:\Users\GuidoNicolás\Source\Repos\facturero\Conexion\obj\Debug\Conexion.Resources.resources
+C:\Users\GuidoNicolás\Source\Repos\facturero\Conexion\obj\Debug\Conexion.vbproj.GenerateResource.Cache
+C:\Users\GuidoNicolás\Source\Repos\facturero\Conexion\obj\Debug\Conexion.dll
+C:\Users\GuidoNicolás\Source\Repos\facturero\Conexion\obj\Debug\Conexion.xml
+C:\Users\GuidoNicolás\Source\Repos\facturero\Conexion\obj\Debug\Conexion.pdb

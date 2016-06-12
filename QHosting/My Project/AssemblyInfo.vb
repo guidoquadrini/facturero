@@ -8,12 +8,12 @@ Imports System.Runtime.InteropServices
 
 ' Revisar los valores de los atributos del ensamblado
 
-<Assembly: AssemblyTitle("QHosting")> 
-<Assembly: AssemblyDescription("")> 
-<Assembly: AssemblyCompany("")> 
-<Assembly: AssemblyProduct("QHosting")> 
-<Assembly: AssemblyCopyright("Copyright ©  2015")> 
-<Assembly: AssemblyTrademark("")> 
+<Assembly: AssemblyTitle("Facturero")>
+<Assembly: AssemblyDescription("Sistema de Facturacion Electronica para Monotributistas - Argentina")>
+<Assembly: AssemblyCompany("Q-Informatica")>
+<Assembly: AssemblyProduct("Facturero")>
+<Assembly: AssemblyCopyright("Copyright ©  2016")>
+<Assembly: AssemblyTrademark("Facturero")>
 
 <Assembly: ComVisible(False)>
 

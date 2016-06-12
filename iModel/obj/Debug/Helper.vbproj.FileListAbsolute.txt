@@ -25,3 +25,12 @@ C:\Users\GuidoNicolás\OneDrivePersonal\OneDrive\Documentos\ProyectosVisual\QHos
 C:\Users\GuidoNicolás\OneDrivePersonal\OneDrive\Documentos\ProyectosVisual\QHosting\iModel\obj\Debug\Helper.dll
 C:\Users\GuidoNicolás\OneDrivePersonal\OneDrive\Documentos\ProyectosVisual\QHosting\iModel\obj\Debug\Helper.xml
 C:\Users\GuidoNicolás\OneDrivePersonal\OneDrive\Documentos\ProyectosVisual\QHosting\iModel\obj\Debug\Helper.pdb
+C:\Users\GuidoNicolás\Source\Repos\facturero\iModel\bin\Debug\Helper.dll
+C:\Users\GuidoNicolás\Source\Repos\facturero\iModel\bin\Debug\Helper.pdb
+C:\Users\GuidoNicolás\Source\Repos\facturero\iModel\bin\Debug\Helper.xml
+C:\Users\GuidoNicolás\Source\Repos\facturero\iModel\obj\Debug\Helper.vbprojResolveAssemblyReference.cache
+C:\Users\GuidoNicolás\Source\Repos\facturero\iModel\obj\Debug\Helper.Resources.resources
+C:\Users\GuidoNicolás\Source\Repos\facturero\iModel\obj\Debug\Helper.vbproj.GenerateResource.Cache
+C:\Users\GuidoNicolás\Source\Repos\facturero\iModel\obj\Debug\Helper.dll
+C:\Users\GuidoNicolás\Source\Repos\facturero\iModel\obj\Debug\Helper.xml
+C:\Users\GuidoNicolás\Source\Repos\facturero\iModel\obj\Debug\Helper.pdb
