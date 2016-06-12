@@ -49,6 +49,9 @@
   <PropertyGroup>
     <OptionInfer>On</OptionInfer>
   </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>1465750368_coin-dollar.ico</ApplicationIcon>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Data" />
@@ -258,6 +261,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\afip_online_70x35_light.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="1465750368_coin-dollar.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
